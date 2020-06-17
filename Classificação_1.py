@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from math import e
-from scipy.optimize import fmin_bfgs
 from scipy import optimize
 
 # Importando os dados do problema
